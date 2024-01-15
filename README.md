@@ -2,7 +2,7 @@
 
 Timed coding quiz with multiple choice questions
 
-# Description :
+Description :
 
 A Quiz has been made with the following functions:
 
@@ -15,6 +15,10 @@ A Quiz has been made with the following functions:
 - When the quiz ends, it should display the score.
 - Also the user can save their initials and score at the end of the quiz.
 
-# The screenshot of working quiz:
+The screenshot of working quiz(Highscore record page):
 
-# URl of the deployed application
+![ ![Alt text](<Screenshot (3).png>)]
+
+URL of the deployed application
+
+https://almasmansuri.github.io/Quiz-App/
