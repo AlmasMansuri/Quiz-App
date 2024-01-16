@@ -21,4 +21,4 @@ The screenshot of working quiz(Highscore record page and app page)
 
 URL of the deployed application
 
-https://almasmansuri.github.io/Quiz-App/
+[https://almasmansuri.github.io/Quiz-App/](https://almasmansuri.github.io/Quiz-App/)https://almasmansuri.github.io/Quiz-App/
