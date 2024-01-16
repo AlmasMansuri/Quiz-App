@@ -15,9 +15,9 @@ A Quiz has been made with the following functions:
 - When the quiz ends, it should display the score.
 - Also the user can save their initials and score at the end of the quiz.
 
-The screenshot of working quiz(Highscore record page):
-
-![ ![Alt text](<Screenshot (3).png>)]
+The screenshot of working quiz(Highscore record page and app page)
+![highscore screenshot](./assets/images/highscore_ss.png)
+![app reenshot](./assets/images/app_ss.png)
 
 URL of the deployed application
 
